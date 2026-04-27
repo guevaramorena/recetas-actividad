@@ -1,0 +1,38 @@
+/* === GENERAL === */
+body {
+    background-color:#ffe4c4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+/* === TITULOS === */
+h1 {
+    color:#0000bb;
+    font-size: 2.5rem; 
+    text-align: center;
+}
+/* === PARRAFOS === */
+p {
+    color:#000000;
+    font-size: 18px;
+    line-height: 1.6;
+}
+/* === LISTAS === */
+ul { padding-left: 20px; }
+li {
+    margin-bottom: 8px;
+    color: #0f2d72;
+}
+/* === ENLACES === */
+a {
+    color: #42af03d0;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color:#60e79d;
+}
+/* === IMAGENES === */
+img {
+    max-width: 100%;
+    border-radius: 8px;
+}
